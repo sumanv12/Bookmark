@@ -16,7 +16,7 @@ form = '''<!DOCTYPE html>
     </label>
     <br>
     <label>Short name:
-        <input name="shortname my">
+        <input name="shortname">
     </label>
     <br>
     <button type="submit">Save it!</button>
